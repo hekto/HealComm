@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: HealComm
+## Author: Avi, Hekto
+## Notes: Visual representation of incoming heals
+## OptionalDeps: LibHealComm-4.0, Blizzard_RaidUI, Blizzard_CompactRaidFrames
+
+# Load Libraries
+libs\LibStub\LibStub.lua
+libs\LibHealComm-4.0\LibHealComm-4.0.xml
+
+HealComm.lua
